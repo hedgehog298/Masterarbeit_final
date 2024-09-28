@@ -40,3 +40,4 @@ When integrating the prototype, the paths to the respective local directory may 
 ## Additional Info
 The file ‘Master thesis 2.0.ipynb’ contains the code structure for the prototype created. The files ‘Devices.txt’ and ‘Zusatzinfos_Verteidigungsmaßnahmen_cleaned.txt’ represent two additional files and serve as input for the prototype. 
 The SMET folder contains the files from the SMET repository, which was integrated into the prototype. 
+All generated outputs of the prototype are located in "Diagramme". 
