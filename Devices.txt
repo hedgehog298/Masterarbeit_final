@@ -1,0 +1,11 @@
+IP-Adresse; MAC-Adresse; Gerätebezeichnung; Software
+192.168.42.197; 00:18:92:18:20:cf; ADS-TEC OPC9000; OPC9000 Monitoring Suite v1.8
+192.168.42.196; 00:04:17:08:b6:d0; Schneider Electric Sage 2300; C3413-500-001D3_P4
+192.168.42.102; 00:0E:8C:A4:F1:02; Simatic S7-200; MicroWin V4.0
+192.168.42.74; 00:1A:0F:09:07:A5; Rockwell Automation MicroLogix 1400 Controllers Series B; RSLogix 500 
+192.168.1.254; 00:1A:79:02:45:F2; Skylab IGX IIoT Gateway; Eclipse Mosquitto 2.0.9
+192.168.1.89; 00:13:95:28:D3:C8; Moxa UC Series IPC; Moxa Industrial Linux v1.2
+192.168.1.101; 00:0C:29:34:12:A8; Bosch BMP280; Bosch Sensortec BMP280 API v1.0
+192.168.1.148; 00:0E:8F:11:AF:02; Mitsubishi Electric smartRTU; MELSOFT RT ToolBox3 Version 1.1
+
+
